@@ -26,4 +26,14 @@
  THEN the password is either displayed in an alert or written to the page
  ```
 
+ ## Url to Deployed Website
+
+ https://emoses95.github.io/securePassword/
+
+ ## Photo of Website
+ 
+ [Screenshot 2023-02-25 at 1.24.27 AM.pdf](https://github.com/Emoses95/securePassword/files/10830734/Screenshot.2023-02-25.at.1.24.27.AM.pdf)
+![Screenshot 2023-02-25 at 1 24 27 AM Small](https://user-images.githubusercontent.com/120363667/221349974-69a5ec3b-b96e-4a3e-8ab0-d4ead8cba3df.jpeg)
+
+ 
  
