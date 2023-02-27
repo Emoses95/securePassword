@@ -32,6 +32,4 @@
 
  ## Photo of Website
  
-<image src="Screenshot 2023-02-26 at 4.52.52 PM Small Small.png">
-<image src="Screenshot 2023-02-26 at 4.53.36 PM Small.png">
-<image src="Screenshot 2023-02-26 at 4.54.03 PM Small.png">
+
